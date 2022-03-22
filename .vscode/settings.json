@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "utility": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "iterator": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "vector": "cpp",
+    "unordered_map": "cpp"
+  }
+}
